@@ -1,2 +1,2 @@
 # Hello Git
- Hello Git Learning
+ Hello Git Learning made for fun
